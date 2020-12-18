@@ -2,7 +2,7 @@ positional arguments:
   username              email or username
   wordlist              password list
 
-python3 instagram.py <username> <wordlist> -m <mode>
+python3 instagram.py <username> <wordlist> -m3<mode>
 
 ### Run
 
