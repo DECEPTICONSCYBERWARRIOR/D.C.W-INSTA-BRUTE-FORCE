@@ -8,7 +8,7 @@ positional arguments:
 
 
 
-python3 instagram.py <username> <wordlist> -m3 <mode>
+python3 D.C.W-INSTA BRUTE.py <username> <wordlist> -m3 <mode>
 
 
 
